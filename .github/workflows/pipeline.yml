@@ -19,4 +19,3 @@ jobs:
 
       - name: Rodar os testes
         run: pytest -v
-		
