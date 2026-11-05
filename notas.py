@@ -4,7 +4,7 @@ def calcular_media(av1, av2, av3):
 
 
 def situacao(media):
-    #Diz a situação do aluno a partir da média..
+    #Diz a situação do aluno a partir da média.
     if media >= 7:
         return "Aprovado"
     elif media >= 5:
